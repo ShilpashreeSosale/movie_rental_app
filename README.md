@@ -90,3 +90,4 @@ This project uses **Liquibase** for managing database migrations. Liquibase allo
 
 
 "# movie_rental_app" 
+"# movie_rental_management_system" 
